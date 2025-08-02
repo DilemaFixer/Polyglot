@@ -1,0 +1,24 @@
+{
+  "dicts": {
+    "de-ru": {
+      "from": "German",
+      "to": "Russian",
+      "words": {
+        "computer": "компьютер",
+        "hallo": "привет",
+        "programmierung": "программирование",
+        "welt": "мир"
+      }
+    },
+    "en-ru": {
+      "from": "English",
+      "to": "Russian",
+      "words": {
+        "computer": "компьютер",
+        "hello": "привет",
+        "programming": "программирование",
+        "world": "мир"
+      }
+    }
+  }
+}
